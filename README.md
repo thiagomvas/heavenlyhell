@@ -1,3 +1,5 @@
+# [Heavenly Hell](https://gaxyhs.itch.io/heavenly-hell)
+
 This game was a submission made for the **Mini Jam 120: Hell²** in 72 hours with the limitation **The player cannot harm** with the following scores:
 
 | Criteria                | Rank (Out of #) | Score* | Raw Score |
